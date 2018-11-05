@@ -1,3 +1,3 @@
 #!/usr/bin/sh
 
-pip -r ../requirements.txt
+pip3 install -r /data/requirements.txt
