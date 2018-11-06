@@ -7,7 +7,7 @@ app = Flask('__name__')
 def index():
 	message = {
 				"firstname": "John",
-				"lastname": "Danny",
+				"lastname": "Doe",
 				"message": "Hello World."
 			}
 	return jsonify(message)
